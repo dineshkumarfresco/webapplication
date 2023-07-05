@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+.head{
+
+}
+.head img{
+    width:200px ;
+}
+.body{
+	display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    background-color:#eeffe2;
+}
+.container{
+	background-color:black;
+	
+}
+.products{
+	background-color:white;
+    margin: 10px;
+
+}
